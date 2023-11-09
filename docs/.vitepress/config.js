@@ -1,7 +1,7 @@
 export default {
   title: 'Aleeeeeex',
   description: 'Aleeeeex的个人网站',
-  base: '/aleome/', // 如果想用 https://mlyz.wdy.github.io/blog/ 访问，那么这句话必填
+  base: '/alexsHome/', // 如果想用 https://mlyz.wdy.github.io/blog/ 访问，那么这句话必填
   themeConfig: {
     logo: '/images/logo.png', // 页面上显示的logo
     nav: [
